@@ -12,7 +12,6 @@ A study guide for course prework
 ## Installation
 
 N/A
-
 ## Usage
 
 each section contains notes about HTML, CSS, JavaScript, Git.
